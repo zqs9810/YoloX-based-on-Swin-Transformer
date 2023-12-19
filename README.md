@@ -1,4 +1,4 @@
-# 感谢B导的源代码以及太阳花的小绿豆的源代码
+
 ### 本仓库是将backbone修改为swin transformer的项目可以进行训练以及预测
 # 代码的修改部分都在nets/文件下
 ### 具体修改部分及训练参考见https://blog.csdn.net/shayinzzh/article/details/125040067
